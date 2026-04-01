@@ -18,7 +18,7 @@ To set up the World Weather Map project locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/apilayer/weather-map.git
+   git clone https://github.com/domwokorach/Wokorach-Map.git
    ```
 
 2. Navigate to the project directory:
